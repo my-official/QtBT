@@ -1,7 +1,7 @@
 QT       += core network
 QT       -= gui
 
-TARGET = qbt
+TARGET = qtbt
 TEMPLATE = lib
 CONFIG += staticlib
 
